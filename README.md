@@ -102,16 +102,8 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter/>
+<a href="https://www.linkedin.com/in/yash-sharma-040250207/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: Yash Sharma.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
@@ -129,13 +121,10 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
 <div align='center'>
 
 ## <b>Thanks for visiting my profile</b>
 
 </div>
-<br>
-<br>
+<
