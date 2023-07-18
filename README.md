@@ -91,7 +91,7 @@
 
 <li>
 <a href="https://linkedin.com/in/yash-sharma-040250207" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Yash-Sharma-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin:Yash Sharma-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
@@ -111,7 +111,7 @@
 
 <div align='center'>
 
-## <b>Thanks for visiting my profile</b>
+## <b>Thanks for visiting my profile!! Let's Connect..</b>
 
 </div>
 <
