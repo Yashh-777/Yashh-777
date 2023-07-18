@@ -111,7 +111,7 @@
 
 <div align='center'>
 
-## <b>Thanks for visiting my profile!! Let's Connect..</b>
+## <b>Thanks for visiting my profile!! Let's Connect...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b>
 
 </div>
 <
