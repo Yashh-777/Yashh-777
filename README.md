@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=A+learner+with+a+passion+for+building+innovative+solutions;Computer+Science+Student;Adaptive+Learner;Love+to+learn+new+tech">
 </p>
 	
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
@@ -43,7 +43,7 @@
 <p align="center">
 
 - **Languages**:
-
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
@@ -114,4 +114,4 @@
 ## <b>Thanks for visiting my profile!! Let's Connect...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b>
 
 </div>
-<
+
