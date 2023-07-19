@@ -19,7 +19,7 @@
 
 - Learning and obtaining practical experiences through internships and personal projects, allowing me to apply academic knowledge to real-world scenarios.
 
-- I have good problem-solving abilities and also have the capacity to tackle issues creatively and adaptably.
+- I have strong problem-solving abilities and the capacity to creatively and adaptably tackle various issues.
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
