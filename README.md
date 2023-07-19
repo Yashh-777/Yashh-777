@@ -91,7 +91,7 @@
 
 <div align='center'>
 
-## <b>Thanks for visiting!! Let's Connect...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b>
+## <b>Thanks for visiting! Looking forward to connect...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></b>
 
 </div>
 
