@@ -12,8 +12,6 @@
   <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
 </picture>
 
-<br>
-
 
 - Welcome to my GitHub profile! My name is Yash Sharma, a computer science student with a good academic foundation and a real interest for technology.
 
